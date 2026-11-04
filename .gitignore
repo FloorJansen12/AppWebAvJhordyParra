@@ -7,3 +7,8 @@ bin
 obj
 *.user
 /WebAppPoliMusicV2/.workbuddy-ai/memory
+/packages
+/WebAppPoliMusicV3/Web.config
+/WebAppPoliMusicV3/Web.Debug.config
+/WebAppPoliMusicV3/Web.Release.config
+*.workbuddy-ai/memory

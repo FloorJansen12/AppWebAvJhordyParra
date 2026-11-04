@@ -49,14 +49,6 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Web.Debug.config">
-      <DependentUpon>Web.config</DependentUpon>
-    </None>
-    <None Include="Web.Release.config">
-      <DependentUpon>Web.config</DependentUpon>
-    </None>
-  </ItemGroup>
-  <ItemGroup>
     <Content Include="Content\Song.css" />
     <Content Include="Content\Song.js" />
     <Content Include="Default.aspx" />
@@ -74,7 +66,7 @@
     <Content Include="SongFiles\bensound-adventure.mp3" />
     <Content Include="UserImages\default.jpg" />
     <Content Include="UserImages\root.png" />
-    <Content Include="Web.config" />
+    <Content Include="UserImages\user1.jpg" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BLL\Song.cs" />
